@@ -1,0 +1,3 @@
+proc_data.c:18:6:IncludeDiagnostic	16	static
+proc_data.c:54:6:GenerateID	8	static
+proc_data.c:58:6:PackageData	392	static

@@ -1,0 +1,4 @@
+core_cm4.h:1939:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+proc.c:33:6:Setup	16	static
+proc.c:187:6:Loop	64	static
+proc.c:549:6:I2C_Scanner	16	static

@@ -1,0 +1,7 @@
+denso_ram.c:19:6:DENSORAM_Init	16	static
+denso_ram.c:24:6:DENSORAM_RxITEnable	8	static
+denso_ram.c:34:6:DENSORAM_RxITDisable	8	static
+denso_ram.c:42:6:DENSORAM_RxCallBack	8	static
+denso_ram.c:84:6:DENSORAM_RxClear	8	static
+denso_ram.c:89:6:DENSORAM_SendPageRequest	16	static
+denso_ram.c:96:6:DENSORAM_Checksum	24	static
